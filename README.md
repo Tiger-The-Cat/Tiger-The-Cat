@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-the-cat&hide=html&theme=dark" alt="Tiger-The-Cat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiger-the-cat&show_icons=true&theme=dark" alt="Tiger-The-Cat" /></p>
 
 <!--
 **Tiger-The-Cat/Tiger-The-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
