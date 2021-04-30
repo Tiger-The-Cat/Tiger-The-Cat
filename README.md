@@ -1,8 +1,14 @@
 ### Hi there! 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-the-cat&hide=html&theme=dark" alt="Tiger-The-Cat" /></p>
+![My profile views](https://komarev.com/ghpvc/?username=Tiger-The-Cat)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiger-the-cat&show_icons=true&theme=dark" alt="Tiger-The-Cat" /></p>
+
+## 📊 My stats
+![My stats](https://github-readme-stats.vercel.app/api?username=tiger-the-cat&show_icons=true&theme=dark)
+
+## 💬 My most used languages
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-the-cat&hide=html&theme=dark)
+
 
 <!--
 **Tiger-The-Cat/Tiger-The-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
