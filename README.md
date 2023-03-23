@@ -6,8 +6,8 @@
 ## 📊 My stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=tiger-the-cat&show_icons=true&theme=dark)
 
-## 💬 My most used languages
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-the-cat&hide=html&theme=dark)
+## 🏆 My trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tiger-The-Cat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
