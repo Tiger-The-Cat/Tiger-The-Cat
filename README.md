@@ -7,7 +7,7 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=tiger-the-cat&show_icons=true&theme=dark)
 
 ## 🏆 My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tiger-The-Cat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tiger-The-Cat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
